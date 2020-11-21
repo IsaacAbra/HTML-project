@@ -1,8 +1,7 @@
 # HTML-project
 
-## This was a project for Udacity where I had to put my CSS skills to the test and make a trading card for any animal/creature I wanted
+An HTML project where I've reviewed the basics and built a little page.
 
-## Technologies used:
+## Technology used:
 
 HTML
-CSS

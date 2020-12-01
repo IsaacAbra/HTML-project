@@ -8,4 +8,4 @@ HTML
 
 ## How to use:
 
-Clone this repository onto your own computer and right click "open in browser" on the .HTML file. Magic shall subsequently ensue.
+One way you can see this file is by downloading it onto your own computer and right clicking "open in browser" on the .HTML file. Magic shall subsequently ensue.
